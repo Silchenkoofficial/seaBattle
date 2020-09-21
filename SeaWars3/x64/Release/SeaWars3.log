@@ -1,0 +1,20 @@
+﻿  Game.cpp
+c:\users\никита\desktop\kursovik\seawars3\seawars3\game.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(13): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(36): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(49): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  Создание кода
+  85 of 86 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    82 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SeaWars3.vcxproj -> C:\Users\Никита\Desktop\kursovik\SeaWars3\x64\Release\SeaWars3.exe

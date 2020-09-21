@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(13): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(36): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\никита\desktop\kursovik\seawars3\seawars3\source.cpp(49): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  SeaWars3.vcxproj -> C:\Users\Никита\Desktop\kursovik\SeaWars3\Debug\SeaWars3.exe
